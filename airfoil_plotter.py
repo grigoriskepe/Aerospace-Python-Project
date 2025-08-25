@@ -1,6 +1,6 @@
 """
 Script Name: airfoil_plotter.py
-Description: Plots the shape of a 4-digit NACA airfoil using its definition.
+Description: Generates and plots the coordinates of a NACA 4-digit airfoil.
 """
 
 import numpy as np
@@ -85,3 +85,4 @@ def plot_airfoil(code="2412"):
 if __name__ == "__main__":
     # Example usage: plot the classic NACA 2412 airfoil
     plot_airfoil("2412")
+
