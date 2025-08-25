@@ -83,6 +83,7 @@ def plot_airfoil(code="2412"):
 
 
 if __name__ == "__main__":
-    # Example usage: plot the classic NACA 2412 airfoil
+    # Example
     plot_airfoil("2412")
+
 
