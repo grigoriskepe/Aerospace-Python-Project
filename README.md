@@ -13,4 +13,4 @@ This repository contains small Python projects as part of my learning in **aerod
 
 3. Lift Coefficient Plotter
 - **File:** `lift_coefficient.py`
-- **Description:** Calculates and plots the lift coefficient (CL) using thin airfoil theory.
+- **Description:** Calculates and plots the lift coefficient using thin airfoil theory.
