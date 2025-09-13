@@ -14,3 +14,11 @@ This repository contains small Python projects as part of my learning in **aerod
 3. Lift Coefficient Plotter
 - **File:** `lift_coefficient.py`
 - **Description:** Calculates and plots the lift coefficient using thin airfoil theory.
+
+4. Dynamic Pressure Calculator
+- **File:** `dynamic_pressure.py`
+- **Description:** Calculates the dynamic pressure, given air density and velocity.
+
+5. Mach Number Calculator
+- **File:** `mach_number.py`
+- **Description:** Calculates Mach number, given velocity and speed of sound.
