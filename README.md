@@ -17,12 +17,12 @@ This repository contains small Python projects as part of my learning in **aerod
 
 4. Dynamic Pressure Calculator
 - **File:** `dynamic_pressure.py`
-- **Description:** Calculates the dynamic pressure, given air density and velocity.
+- **Description:** Calculates the dynamic pressure given air density and velocity.
 
 5. Mach Number Calculator
 - **File:** `mach_number.py`
-- **Description:** Calculates Mach number, given velocity and speed of sound.
+- **Description:** Calculates Mach number given velocity and speed of sound.
 
 6. Reynolds Number Calculator
 - **File:** `reynolds_number.py`
-- **Description:** Calculates Reynolds number, given velocity, length, density, and viscosity.
+- **Description:** Calculates Reynolds number given velocity, length, density, and viscosity.
