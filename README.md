@@ -22,3 +22,7 @@ This repository contains small Python projects as part of my learning in **aerod
 5. Mach Number Calculator
 - **File:** `mach_number.py`
 - **Description:** Calculates Mach number, given velocity and speed of sound.
+
+6. Reynolds Number Calculator
+- **File:** `reynolds_number.py`
+- **Description:** Calculates Reynolds number, given velocity, length, density, and viscosity.
