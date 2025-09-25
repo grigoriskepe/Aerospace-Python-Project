@@ -26,3 +26,7 @@ This repository contains small Python projects as part of my learning in **aerod
 6. Reynolds Number Calculator
 - **File:** `reynolds_number.py`
 - **Description:** Calculates Reynolds number given velocity, length, density, and viscosity.
+
+7. Drag Coefficient Calculator
+- **File:** `drag_coefficient.py`
+- **Description:** Calculates drag coefficient given drag force, dynamic pressure, and reference area.
