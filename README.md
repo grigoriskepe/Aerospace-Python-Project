@@ -1,6 +1,6 @@
-# Aerospace Python Projects
+# Aerospace Python Calculators
 
-This repository contains small Python projects as part of my learning in **aerodynamics and CFD**.
+This repository contains small Python scripts as part of my learning in **aerodynamics**.
 
 ## Projects
 1. Air Density Calculator
